@@ -1,0 +1,11 @@
+C:\Users\hp\Desktop\oclock\myclock\myclock\bin\Debug\myclock.exe.config
+C:\Users\hp\Desktop\oclock\myclock\myclock\bin\Debug\myclock.exe
+C:\Users\hp\Desktop\oclock\myclock\myclock\bin\Debug\myclock.pdb
+C:\Users\hp\Desktop\oclock\myclock\myclock\obj\Debug\myclock.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\oclock\myclock\myclock\obj\Debug\myclock.Properties.Resources.resources
+C:\Users\hp\Desktop\oclock\myclock\myclock\obj\Debug\myclock.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\oclock\myclock\myclock\obj\Debug\myclock.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\oclock\myclock\myclock\obj\Debug\myclock.exe
+C:\Users\hp\Desktop\oclock\myclock\myclock\obj\Debug\myclock.pdb
+C:\Users\hp\Desktop\oclock\myclock\myclock\obj\Debug\myclock.clock.resources
+C:\Users\hp\Desktop\oclock\myclock\myclock\obj\Debug\myclock.exe.config

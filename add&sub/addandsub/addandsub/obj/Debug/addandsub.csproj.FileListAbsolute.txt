@@ -1,0 +1,11 @@
+C:\Users\hp\Desktop\add&sub\addandsub\addandsub\bin\Debug\addandsub.exe.config
+C:\Users\hp\Desktop\add&sub\addandsub\addandsub\bin\Debug\addandsub.exe
+C:\Users\hp\Desktop\add&sub\addandsub\addandsub\bin\Debug\addandsub.pdb
+C:\Users\hp\Desktop\add&sub\addandsub\addandsub\obj\Debug\addandsub.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\add&sub\addandsub\addandsub\obj\Debug\addandsub.Form1.resources
+C:\Users\hp\Desktop\add&sub\addandsub\addandsub\obj\Debug\addandsub.Properties.Resources.resources
+C:\Users\hp\Desktop\add&sub\addandsub\addandsub\obj\Debug\addandsub.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\add&sub\addandsub\addandsub\obj\Debug\addandsub.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\add&sub\addandsub\addandsub\obj\Debug\addandsub.exe
+C:\Users\hp\Desktop\add&sub\addandsub\addandsub\obj\Debug\addandsub.pdb
+C:\Users\hp\Desktop\add&sub\addandsub\addandsub\obj\Debug\addandsub.exe.config
