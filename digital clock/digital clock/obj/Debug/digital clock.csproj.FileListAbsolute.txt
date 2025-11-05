@@ -1,0 +1,11 @@
+C:\Users\hp\Desktop\manualy\digital clock\digital clock\bin\Debug\digital clock.exe.config
+C:\Users\hp\Desktop\manualy\digital clock\digital clock\bin\Debug\digital clock.exe
+C:\Users\hp\Desktop\manualy\digital clock\digital clock\bin\Debug\digital clock.pdb
+C:\Users\hp\Desktop\manualy\digital clock\digital clock\obj\Debug\digital clock.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\manualy\digital clock\digital clock\obj\Debug\digital_clock.Form1.resources
+C:\Users\hp\Desktop\manualy\digital clock\digital clock\obj\Debug\digital_clock.Properties.Resources.resources
+C:\Users\hp\Desktop\manualy\digital clock\digital clock\obj\Debug\digital clock.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\manualy\digital clock\digital clock\obj\Debug\digital clock.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\manualy\digital clock\digital clock\obj\Debug\digital clock.exe
+C:\Users\hp\Desktop\manualy\digital clock\digital clock\obj\Debug\digital clock.pdb
+C:\Users\hp\Desktop\manualy\digital clock\digital clock\obj\Debug\digital clock.exe.config
